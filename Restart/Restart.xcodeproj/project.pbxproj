@@ -69,9 +69,6 @@
 				85530C1E2BA9F21E008745D7 /* Utils */,
 				85530C1D2BA9F210008745D7 /* Sounds */,
 				85530C1C2BA9F1FE008745D7 /* Views */,
-				85530C0C2BA9EF30008745D7 /* RestartApp.swift */,
-				85530C102BA9EF30008745D7 /* Item.swift */,
-				85530C122BA9EF31008745D7 /* Assets.xcassets */,
 				85530C142BA9EF31008745D7 /* Preview Content */,
 			);
 			path = Restart;
@@ -116,6 +113,9 @@
 		85530C2B2BA9F37E008745D7 /* Commom */ = {
 			isa = PBXGroup;
 			children = (
+				85530C0C2BA9EF30008745D7 /* RestartApp.swift */,
+				85530C102BA9EF30008745D7 /* Item.swift */,
+				85530C122BA9EF31008745D7 /* Assets.xcassets */,
 			);
 			path = Commom;
 			sourceTree = "<group>";
